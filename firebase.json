@@ -1,0 +1,11 @@
+{
+    "hosting": {
+      "public": "public",
+      "site": "gdgtrabzon-ce9f5-c5389",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  }
